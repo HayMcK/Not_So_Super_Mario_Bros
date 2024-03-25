@@ -1,0 +1,513 @@
+
+===============
+LEVEL 0
+
+cxkx
+ccmc
+mgwc
+bcxc
+
+
+Mario is starting in position (2, 2)
+
+===============
+
+cxkx
+ccmc
+mgHc
+bcxc
+
+Level: 0. Mario is at position (2, 2). Mario found a warp pipe. Mario is at power level 0. Mario has 4 lives left. Mario has 0 coins. Mario will WARP to the next level.
+
+===============
+LEVEL 1
+
+cmxw
+cxxc
+mckb
+gccc
+
+
+Mario is starting in position (0, 0)
+
+===============
+
+Hmxw
+cxxc
+mckb
+gccc
+
+Level: 1. Mario is at position (0, 0). Mario picked up a coin. Mario is at power level 0. Mario has 4 lives left. Mario has 1 coins. Mario is moving on.
+
+===============
+
+xHxw
+cxxc
+mckb
+gccc
+
+Level: 1. Mario is at position (0, 1). Mario found a mushroom. Mario is at power level 1. Mario has 4 lives left. Mario has 1 coins. Mario is moving on.
+
+===============
+
+xxHw
+cxxc
+mckb
+gccc
+
+Level: 1. Mario is at position (0, 2). Mario came to an empty tile. Mario is at power level 1. Mario has 4 lives left. Mario has 1 coins. Mario will move on.
+
+===============
+
+xxxw
+cxxc
+mckb
+gcHc
+
+Level: 1. Mario is at position (3, 2). Mario picked up a coin. Mario is at power level 1. Mario has 4 lives left. Mario has 2 coins. Mario is moving on.
+
+===============
+
+xxHw
+cxxc
+mckb
+gcxc
+
+Level: 1. Mario is at position (0, 2). Mario came to an empty tile. Mario is at power level 1. Mario has 4 lives left. Mario has 2 coins. Mario will move on.
+
+===============
+
+xHxw
+cxxc
+mckb
+gcxc
+
+Level: 1. Mario is at position (0, 1). Mario came to an empty tile. Mario is at power level 1. Mario has 4 lives left. Mario has 2 coins. Mario will move on.
+
+===============
+
+xxHw
+cxxc
+mckb
+gcxc
+
+Level: 1. Mario is at position (0, 2). Mario came to an empty tile. Mario is at power level 1. Mario has 4 lives left. Mario has 2 coins. Mario will move on.
+
+===============
+
+xHxw
+cxxc
+mckb
+gcxc
+
+Level: 1. Mario is at position (0, 1). Mario came to an empty tile. Mario is at power level 1. Mario has 4 lives left. Mario has 2 coins. Mario will move on.
+
+===============
+
+xxxw
+cxxc
+mckb
+gHxc
+
+Level: 1. Mario is at position (3, 1). Mario picked up a coin. Mario is at power level 1. Mario has 4 lives left. Mario has 3 coins. Mario is moving on.
+
+===============
+
+xxxw
+cxxc
+mckb
+Hxxc
+
+Level: 1. Mario is at position (3, 0). Mario encountered a goomba and won. Mario is at power level 1. Mario has 4 lives left. Mario has 3 coins. Mario will move on.
+
+===============
+
+xxxw
+cxxc
+Hckb
+xxxc
+
+Level: 1. Mario is at position (2, 0). Mario found a mushroom. Mario is at power level 2. Mario has 4 lives left. Mario has 3 coins. Mario is moving on.
+
+===============
+
+xxxw
+cxxc
+xckb
+Hxxc
+
+Level: 1. Mario is at position (3, 0). Mario came to an empty tile. Mario is at power level 2. Mario has 4 lives left. Mario has 3 coins. Mario will move on.
+
+===============
+
+xxxw
+cxxc
+xckb
+xxxH
+
+Level: 1. Mario is at position (3, 3). Mario picked up a coin. Mario is at power level 2. Mario has 4 lives left. Mario has 4 coins. Mario is moving on.
+
+===============
+
+xxxw
+cxxc
+xckH
+xxxx
+
+Level: 1. Mario is at position (2, 3). Mario encountered the boss and lost, lowering his power level. Mario is at power level 0. Mario has 4 lives left. Mario has 4 coins. Mario will attempt to fight the boss again.
+
+===============
+
+xxxw
+cxxc
+xckH
+xxxx
+
+
+Mario fought the boss again and lost while at power level 0 so he lost a life. Mario is at power level 0. Mario has 3 lives left. Mario has 4 coins. Mario will attempt to fight the boss again.
+
+===============
+
+xxxw
+cxxc
+xckH
+xxxx
+
+
+Mario fought the boss again and WON. Mario is at power level 0. Mario has 3 lives left. Mario has 4 coins. Mario will move to the next level.
+
+===============
+LEVEL 2
+
+kxxc
+cgcx
+cxmb
+cmcc
+
+
+Mario is starting in position (3, 0)
+
+===============
+
+kxxc
+cgcx
+cxmb
+Hmcc
+
+Level: 2. Mario is at position (3, 0). Mario picked up a coin. Mario is at power level 0. Mario has 3 lives left. Mario has 5 coins. Mario is moving on.
+
+===============
+
+kxxc
+cgcx
+cxmb
+xmcH
+
+Level: 2. Mario is at position (3, 3). Mario picked up a coin. Mario is at power level 0. Mario has 3 lives left. Mario has 6 coins. Mario is moving on.
+
+===============
+
+kxxH
+cgcx
+cxmb
+xmcx
+
+Level: 2. Mario is at position (0, 3). Mario picked up a coin. Mario is at power level 0. Mario has 3 lives left. Mario has 7 coins. Mario is moving on.
+
+===============
+
+Hxxx
+cgcx
+cxmb
+xmcx
+
+Level: 2. Mario is at position (0, 0). Mario encountered a koopa and won. Mario is at power level 0. Mario has 3 lives left. Mario has 7 coins. Mario will move on.
+
+===============
+
+xxxx
+Hgcx
+cxmb
+xmcx
+
+Level: 2. Mario is at position (1, 0). Mario picked up a coin. Mario is at power level 0. Mario has 3 lives left. Mario has 8 coins. Mario is moving on.
+
+===============
+
+xxxx
+xHcx
+cxmb
+xmcx
+
+Level: 2. Mario is at position (1, 1). Mario encountered a goomba and won. Mario is at power level 0. Mario has 3 lives left. Mario has 8 coins. Mario will move on.
+
+===============
+
+xHxx
+xxcx
+cxmb
+xmcx
+
+Level: 2. Mario is at position (0, 1). Mario came to an empty tile. Mario is at power level 0. Mario has 3 lives left. Mario has 8 coins. Mario will move on.
+
+===============
+
+xxHx
+xxcx
+cxmb
+xmcx
+
+Level: 2. Mario is at position (0, 2). Mario came to an empty tile. Mario is at power level 0. Mario has 3 lives left. Mario has 8 coins. Mario will move on.
+
+===============
+
+xxxH
+xxcx
+cxmb
+xmcx
+
+Level: 2. Mario is at position (0, 3). Mario came to an empty tile. Mario is at power level 0. Mario has 3 lives left. Mario has 8 coins. Mario will move on.
+
+===============
+
+xxHx
+xxcx
+cxmb
+xmcx
+
+Level: 2. Mario is at position (0, 2). Mario came to an empty tile. Mario is at power level 0. Mario has 3 lives left. Mario has 8 coins. Mario will move on.
+
+===============
+
+xxxx
+xxcx
+cxmb
+xmHx
+
+Level: 2. Mario is at position (3, 2). Mario picked up a coin. Mario is at power level 0. Mario has 3 lives left. Mario has 9 coins. Mario is moving on.
+
+===============
+
+xxxx
+xxcx
+cxmb
+xHxx
+
+Level: 2. Mario is at position (3, 1). Mario found a mushroom. Mario is at power level 1. Mario has 3 lives left. Mario has 9 coins. Mario is moving on.
+
+===============
+
+xxxx
+xxcx
+cHmb
+xxxx
+
+Level: 2. Mario is at position (2, 1). Mario came to an empty tile. Mario is at power level 1. Mario has 3 lives left. Mario has 9 coins. Mario will move on.
+
+===============
+
+xxxx
+xxcx
+cxHb
+xxxx
+
+Level: 2. Mario is at position (2, 2). Mario found a mushroom. Mario is at power level 2. Mario has 3 lives left. Mario has 9 coins. Mario is moving on.
+
+===============
+
+xxxx
+xxcx
+cxxb
+xxHx
+
+Level: 2. Mario is at position (3, 2). Mario came to an empty tile. Mario is at power level 2. Mario has 3 lives left. Mario has 9 coins. Mario will move on.
+
+===============
+
+xxxx
+xxcx
+cxHb
+xxxx
+
+Level: 2. Mario is at position (2, 2). Mario came to an empty tile. Mario is at power level 2. Mario has 3 lives left. Mario has 9 coins. Mario will move on.
+
+===============
+
+xxxx
+xxcx
+cxxb
+xxHx
+
+Level: 2. Mario is at position (3, 2). Mario came to an empty tile. Mario is at power level 2. Mario has 3 lives left. Mario has 9 coins. Mario will move on.
+
+===============
+
+xxxx
+xxcx
+cxxb
+xxxH
+
+Level: 2. Mario is at position (3, 3). Mario came to an empty tile. Mario is at power level 2. Mario has 3 lives left. Mario has 9 coins. Mario will move on.
+
+===============
+
+xxxH
+xxcx
+cxxb
+xxxx
+
+Level: 2. Mario is at position (0, 3). Mario came to an empty tile. Mario is at power level 2. Mario has 3 lives left. Mario has 9 coins. Mario will move on.
+
+===============
+
+xxHx
+xxcx
+cxxb
+xxxx
+
+Level: 2. Mario is at position (0, 2). Mario came to an empty tile. Mario is at power level 2. Mario has 3 lives left. Mario has 9 coins. Mario will move on.
+
+===============
+
+xxxx
+xxcx
+cxxb
+xxHx
+
+Level: 2. Mario is at position (3, 2). Mario came to an empty tile. Mario is at power level 2. Mario has 3 lives left. Mario has 9 coins. Mario will move on.
+
+===============
+
+xxHx
+xxcx
+cxxb
+xxxx
+
+Level: 2. Mario is at position (0, 2). Mario came to an empty tile. Mario is at power level 2. Mario has 3 lives left. Mario has 9 coins. Mario will move on.
+
+===============
+
+xxxx
+xxcx
+cxxb
+xxHx
+
+Level: 2. Mario is at position (3, 2). Mario came to an empty tile. Mario is at power level 2. Mario has 3 lives left. Mario has 9 coins. Mario will move on.
+
+===============
+
+xxxx
+xxcx
+cxxb
+xHxx
+
+Level: 2. Mario is at position (3, 1). Mario came to an empty tile. Mario is at power level 2. Mario has 3 lives left. Mario has 9 coins. Mario will move on.
+
+===============
+
+xxxx
+xxcx
+cHxb
+xxxx
+
+Level: 2. Mario is at position (2, 1). Mario came to an empty tile. Mario is at power level 2. Mario has 3 lives left. Mario has 9 coins. Mario will move on.
+
+===============
+
+xxxx
+xxcx
+cxHb
+xxxx
+
+Level: 2. Mario is at position (2, 2). Mario came to an empty tile. Mario is at power level 2. Mario has 3 lives left. Mario has 9 coins. Mario will move on.
+
+===============
+
+xxxx
+xxcx
+cxxb
+xxHx
+
+Level: 2. Mario is at position (3, 2). Mario came to an empty tile. Mario is at power level 2. Mario has 3 lives left. Mario has 9 coins. Mario will move on.
+
+===============
+
+xxHx
+xxcx
+cxxb
+xxxx
+
+Level: 2. Mario is at position (0, 2). Mario came to an empty tile. Mario is at power level 2. Mario has 3 lives left. Mario has 9 coins. Mario will move on.
+
+===============
+
+xHxx
+xxcx
+cxxb
+xxxx
+
+Level: 2. Mario is at position (0, 1). Mario came to an empty tile. Mario is at power level 2. Mario has 3 lives left. Mario has 9 coins. Mario will move on.
+
+===============
+
+Hxxx
+xxcx
+cxxb
+xxxx
+
+Level: 2. Mario is at position (0, 0). Mario came to an empty tile. Mario is at power level 2. Mario has 3 lives left. Mario has 9 coins. Mario will move on.
+
+===============
+
+xHxx
+xxcx
+cxxb
+xxxx
+
+Level: 2. Mario is at position (0, 1). Mario came to an empty tile. Mario is at power level 2. Mario has 3 lives left. Mario has 9 coins. Mario will move on.
+
+===============
+
+xxHx
+xxcx
+cxxb
+xxxx
+
+Level: 2. Mario is at position (0, 2). Mario came to an empty tile. Mario is at power level 2. Mario has 3 lives left. Mario has 9 coins. Mario will move on.
+
+===============
+
+xxxx
+xxHx
+cxxb
+xxxx
+
+Level: 2. Mario is at position (1, 2). Mario picked up a coin. Mario is at power level 2. Mario has 3 lives left. Mario has 10 coins. Mario is moving on.
+
+===============
+
+xxxx
+xxxH
+cxxb
+xxxx
+
+Level: 2. Mario is at position (1, 3). Mario came to an empty tile. Mario is at power level 2. Mario has 3 lives left. Mario has 10 coins. Mario will move on.
+
+===============
+
+xxxx
+xxxx
+cxxH
+xxxx
+
+Level: 2. Mario is at position (2, 3). Mario encountered the boss and lost, lowering his power level. Mario is at power level 0. Mario has 3 lives left. Mario has 10 coins. Mario will attempt to fight the boss again.
+
+===============
+
+xxxx
+xxxx
+cxxH
+xxxx
+
+
+Mario fought the boss again and WON, saving the princess! Mario finished the game in 52 moves.
